@@ -43,7 +43,3 @@ python examples/HDAC6_case/reproduce_analysis.py --input <Source_Data_Fig4.xlsx>
 ## License
 
 MIT
-READMEOF
-
-echo 'README.md written'
-wc -c README.md
